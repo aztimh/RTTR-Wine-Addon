@@ -1,0 +1,48 @@
+Wine Addon Nation Offsets:
+
+WINERY Work Window:
+
+Africans: (13,-22)
+Japanese: (19,6)
+Romans (-14,16)
+Vikings: (4,-20)
+Babylonians: (-19,12)
+
+TEMPLE Work Window:
+
+Africans: (19,-31)
+Japanese: (15,-38)
+Romans: (0,0)
+Vikings: (22,-25)
+Babylonians: (7,-49)
+
+Chimney Smoke:
+vikings[BuildingType::Vineyard] = SmokeConst(1, {18, -48});
+vikings[BuildingType::Winery] = SmokeConst(1, {-5, -15});
+
+Stop Production (X sign):
+
+Africans
+Vineyard: (18,-9)
+Winery: (-8,-10)
+Temple: (2,-32)
+
+Japanese
+Vineyard: (-26,-13)
+Winery: (-8,-8)
+Temple: (7,-8)
+
+Romans
+Vineyard: (36,-12)
+Winery: (-8,-8)
+Temple: (10,-19)
+
+Vikings
+Vineyard: (-7,-32)
+Winery: (-10,-1)
+Temple: (-4,5)
+
+Babylonians
+Vineyard: (-32,-20)
+Winery: (4,-16)
+Temple: (11,-9)

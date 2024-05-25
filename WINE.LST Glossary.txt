@@ -1,0 +1,139 @@
+WINE.LST Glossary
+GFX#
+1. African Vineyard
+2. Shadow
+3. Scaffold
+4. Scaffold shadow
+5. Open door
+6. Winter version
+7. Winter open door
+8. Building Icon
+
+9. African Winery
+10. Shadow
+11. Scaffold
+12. Scaffold shadow
+13. Open door
+14. Winter version
+15. Winter open door
+16. Building Icon
+
+17. African Temple
+18. Shadow
+19. Scaffold
+20. Scaffold shadow
+21. Open door
+22. Winter version
+23. Winter open door
+24. Building Icon
+
+25. Japanese Vineyard
+26. Shadow
+27. Scaffold
+28. Scaffold shadow
+29. Open door
+30. Winter version
+31. Winter open door
+32. Building Icon
+
+33. Japanese Winery
+34. Shadow
+35. Scaffold
+36. Scaffold shadow
+37. Open door
+38. Winter version
+39. Winter open door
+40. Building Icon
+
+41. Japanese Temple
+42. Shadow
+43. Scaffold
+44. Scaffold shadow
+45. Open door
+46. Winter version
+47. Winter shadow
+48. Winter open door
+49. Building Icon
+
+50. Roman Vineyard
+51. Shadow
+52. Scaffold
+53. Scaffold shadow
+54. Open door
+55. Winter version
+56. Winter open door
+57. Building Icon
+
+58. Roman Winery
+59. Shadow
+60. Scaffold
+61. Scaffold shadow
+62. Open door
+63. Winter version
+64. Winter open door
+65. Building Icon
+
+66. Roman Temple
+67. Shadow
+68. Scaffold
+69. Scaffold shadow
+70. Open door
+71. Winter version
+72. Winter open door
+73. Building Icon
+
+74. Viking Vineyard
+75. Shadow
+76. Scaffold
+77. Scaffold shadow
+78. Open door
+79. Winter version
+80. Winter open door
+81. Building Icon
+
+82. Viking Winery
+83. Shadow
+84. Scaffold
+85. Scaffold shadow
+86. Open door
+87. Winter version
+88. Winter shadow
+89. Winter open door
+90. Building Icon
+
+91. Viking Temple
+92. Shadow
+93. Scaffold
+94. Scaffold shadow
+95. Open door
+96. Winter version
+97. Winter shadow
+98. Winter open door
+99. Building Icon
+
+100. Babylonian Vineyard
+101. Shadow
+102. Scaffold
+103. Scaffold shadow
+104. Open door
+105. Winter version
+106. Winter open door
+107. Building Icon
+
+108. Babylonian Winery
+109. Shadow
+110. Scaffold
+111. Scaffold shadow
+112. Open door
+113. Winter version
+114. Winter open door
+115. Building Icon
+
+116. Babylonian Temple
+117. Shadow
+118. Scaffold
+119. Scaffold shadow
+120. <Empty>
+121. Winter version
+122. <Empty>
+123. Building Icon

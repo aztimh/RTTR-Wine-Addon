@@ -24,116 +24,117 @@ GFX#
 20. Scaffold shadow
 21. Open door
 22. Winter version
-23. Winter open door
-24. Building Icon
+23. Winter Shadow
+24. Winter open door
+25. Building Icon
 
-25. Japanese Vineyard
-26. Shadow
-27. Scaffold
-28. Scaffold shadow
-29. Open door
-30. Winter version
-31. Winter open door
-32. Building Icon
+26. Japanese Vineyard
+27. Shadow
+28. Scaffold
+29. Scaffold shadow
+30. Open door
+31. Winter version
+32. Winter open door
+33. Building Icon
 
-33. Japanese Winery
-34. Shadow
-35. Scaffold
-36. Scaffold shadow
-37. Open door
-38. Winter version
-39. Winter open door
-40. Building Icon
+34. Japanese Winery
+35. Shadow
+36. Scaffold
+37. Scaffold shadow
+38. Open door
+39. Winter version
+40. Winter open door
+41. Building Icon
 
-41. Japanese Temple
-42. Shadow
-43. Scaffold
-44. Scaffold shadow
-45. Open door
-46. Winter version
-47. Winter shadow
-48. Winter open door
-49. Building Icon
+42. Japanese Temple
+43. Shadow
+44. Scaffold
+45. Scaffold shadow
+46. Open door
+47. Winter version
+48. Winter shadow
+49. Winter open door
+50. Building Icon
 
-50. Roman Vineyard
-51. Shadow
-52. Scaffold
-53. Scaffold shadow
-54. Open door
-55. Winter version
-56. Winter open door
-57. Building Icon
+51. Roman Vineyard
+52. Shadow
+53. Scaffold
+54. Scaffold shadow
+55. Open door
+56. Winter version
+57. Winter open door
+58. Building Icon
 
-58. Roman Winery
-59. Shadow
-60. Scaffold
-61. Scaffold shadow
-62. Open door
-63. Winter version
-64. Winter open door
-65. Building Icon
+59. Roman Winery
+60. Shadow
+61. Scaffold
+62. Scaffold shadow
+63. Open door
+64. Winter version
+65. Winter open door
+66. Building Icon
 
-66. Roman Temple
-67. Shadow
-68. Scaffold
-69. Scaffold shadow
-70. Open door
-71. Winter version
-72. Winter open door
-73. Building Icon
+67. Roman Temple
+68. Shadow
+69. Scaffold
+70. Scaffold shadow
+71. Open door
+72. Winter version
+73. Winter open door
+74. Building Icon
 
-74. Viking Vineyard
-75. Shadow
-76. Scaffold
-77. Scaffold shadow
-78. Open door
-79. Winter version
-80. Winter open door
-81. Building Icon
+75. Viking Vineyard
+76. Shadow
+77. Scaffold
+78. Scaffold shadow
+79. Open door
+80. Winter version
+81. Winter open door
+82. Building Icon
 
-82. Viking Winery
-83. Shadow
-84. Scaffold
-85. Scaffold shadow
-86. Open door
-87. Winter version
-88. Winter shadow
-89. Winter open door
-90. Building Icon
+83. Viking Winery
+84. Shadow
+85. Scaffold
+86. Scaffold shadow
+87. Open door
+88. Winter version
+89. Winter shadow
+90. Winter open door
+91. Building Icon
 
-91. Viking Temple
-92. Shadow
-93. Scaffold
-94. Scaffold shadow
-95. Open door
-96. Winter version
-97. Winter shadow
-98. Winter open door
-99. Building Icon
+92. Viking Temple
+93. Shadow
+94. Scaffold
+95. Scaffold shadow
+96. Open door
+97. Winter version
+98. Winter shadow
+99. Winter open door
+100. Building Icon
 
-100. Babylonian Vineyard
-101. Shadow
-102. Scaffold
-103. Scaffold shadow
-104. Open door
-105. Winter version
-106. Winter open door
-107. Building Icon
+101. Babylonian Vineyard
+102. Shadow
+103. Scaffold
+104. Scaffold shadow
+105. Open door
+106. Winter version
+107. Winter open door
+108. Building Icon
 
-108. Babylonian Winery
-109. Shadow
-110. Scaffold
-111. Scaffold shadow
-112. Open door
-113. Winter version
-114. Winter open door
-115. Building Icon
+109. Babylonian Winery
+110. Shadow
+111. Scaffold
+112. Scaffold shadow
+113. Open door
+114. Winter version
+115. Winter open door
+116. Building Icon
 
-116. Babylonian Temple
-117. Shadow
-118. Scaffold
-119. Scaffold shadow
-120. <Empty>
-121. Winter version
-122. <Empty>
-123. Building Icon
+117. Babylonian Temple
+118. Shadow
+119. Scaffold
+120. Scaffold shadow
+121. <Empty>
+122. Winter version
+123. <Empty>
+124. Building Icon

@@ -10,11 +10,11 @@ Babylonians: (-19,12)
 
 TEMPLE Work Window:
 
-Africans: (19,-31)
-Japanese: (15,-38)
-Romans: (0,0)
+Africans: (26,-23)
+Japanese: (17,-40)
+Romans: (4,0)
 Vikings: (22,-25)
-Babylonians: (7,-49)
+Babylonians: (20,-45)
 
 Chimney Smoke:
 vikings[BuildingType::Vineyard] = SmokeConst(1, {18, -48});
@@ -23,19 +23,19 @@ vikings[BuildingType::Winery] = SmokeConst(1, {-5, -15});
 Stop Production (X sign):
 
 Africans
-Vineyard: (18,-9)
+Vineyard: (22,-7)
 Winery: (-8,-10)
-Temple: (2,-32)
+Temple: (9,-24)
 
 Japanese
 Vineyard: (-26,-13)
 Winery: (-8,-8)
-Temple: (7,-8)
+Temple: (9,-10)
 
 Romans
 Vineyard: (36,-12)
 Winery: (-8,-8)
-Temple: (10,-19)
+Temple: (12,-19)
 
 Vikings
 Vineyard: (-7,-32)
@@ -45,4 +45,4 @@ Temple: (-4,5)
 Babylonians
 Vineyard: (-32,-20)
 Winery: (4,-16)
-Temple: (11,-9)
+Temple: (10,-18)

@@ -6,7 +6,7 @@ GFX#
 4. Scaffold shadow
 5. Open door
 6. Winter version
-7. <empty>
+7. Winter Shadow
 8. Winter open door
 9. Building Icon
 
@@ -16,7 +16,7 @@ GFX#
 13. Scaffold shadow
 14. Open door
 15. Winter version
-16. <empty>
+16. Winter Shadow
 17. Winter open door
 18. Building Icon
 
@@ -36,7 +36,7 @@ GFX#
 31. Scaffold shadow
 32. Open door
 33. Winter version
-34. <empty>
+34. Winter Shadow
 35. Winter open door
 36. Building Icon
 
@@ -46,7 +46,7 @@ GFX#
 40. Scaffold shadow
 41. Open door
 42. Winter version
-43. <empty>
+43. Winter Shadow
 44. Winter open door
 45. Building Icon
 
@@ -66,7 +66,7 @@ GFX#
 58. Scaffold shadow
 59. Open door
 60. Winter version
-61. <empty>
+61. Winter Shadow
 62. Winter open door
 63. Building Icon
 
@@ -76,7 +76,7 @@ GFX#
 67. Scaffold shadow
 68. Open door
 69. Winter version
-70. <empty>
+70. Winter Shadow
 71. Winter open door
 72. Building Icon
 
@@ -86,7 +86,7 @@ GFX#
 76. Scaffold shadow
 77. Open door
 78. Winter version
-79. <empty>
+79. Winter Shadow
 80. Winter open door
 81. Building Icon
 
@@ -96,7 +96,7 @@ GFX#
 85. Scaffold shadow
 86. Open door
 87. Winter version
-88. <empty>
+88. Winter Shadow
 89. Winter open door
 90. Building Icon
 
@@ -126,7 +126,7 @@ GFX#
 112. Scaffold shadow
 113. Open door
 114. Winter version
-115. <empty>
+115. Winter Shadow
 116. Winter open door
 117. Building Icon
 
@@ -136,7 +136,7 @@ GFX#
 121. Scaffold shadow
 122. Open door
 123. Winter version
-124. <empty>
+124. Winter Shadow
 125. Winter open door
 126. Building Icon
 
@@ -146,6 +146,6 @@ GFX#
 130. Scaffold shadow
 131. <empty>
 132. Winter version
-133. <empty>
+133. Winter Shadow
 134. <empty>
 135. Building Icon
